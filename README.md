@@ -12,10 +12,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="vanessa-HTML" height="28" width="85" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="vanessa-CSS" height="28" width="73" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
-  <img align="center" alt="vanessa-Js" height="21.05" width="96" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img align="center" alt="vanessa-Node.js" height="26.63" width="96" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="vanessa-photoshop" height="20" width="96" src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img align="center" alt="vanessa-illustrator" height="20" width="93" src="https://aleen42.github.io/badges/src/illustrator.svg">
+  <img align="center" alt="vanessa-Js" height="28" width="96" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img align="center" alt="vanessa-Node.js" height="28" width="96" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="vanessa-photoshop" height="28" width="98" src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img align="center" alt="vanessa-illustrator" height="28" width="98" src="https://aleen42.github.io/badges/src/illustrator.svg">
  
 </div>
      
