@@ -1,7 +1,7 @@
 ### Hello, I am the Vanessa Ert 👋
 
 - 🌱 I’m currently learning Front-end com foco em HTML, CSS, JavaScript e Typescript.
-😄 Pronouns: She/Her
+
 
 <div align="left">
   <a href="https://github.com/vanessaert">
